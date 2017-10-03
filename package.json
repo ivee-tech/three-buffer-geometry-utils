@@ -1,0 +1,26 @@
+{
+  "name": "three-buffer-geometry-utils",
+  "version": "1.0.0",
+  "description": "Utility helpers from Three.js buffer geometry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivee-tech/three-buffer-geometry-utils.git"
+  },
+  "keywords": [
+    "THREE",
+    "BufferGeometryUtils",
+    "Buffer",
+    "Geometry",
+    "Utils"
+  ],
+  "author": "ivee-tech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivee-tech/three-buffer-geometry-utils/issues"
+  },
+  "homepage": "https://github.com/ivee-tech/three-buffer-geometry-utils#readme"
+}
